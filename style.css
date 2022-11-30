@@ -6,4 +6,5 @@
     transform: translate(-50%, -50%);
     height: 1000px;
     width: 500px;
+    background: linear-gradient(180deg, crimson, black, crimson);
 }
